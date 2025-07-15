@@ -20,7 +20,7 @@ A practical finance/operations project using Python, SQL, and Excel to reconcile
 ---
 
 ## 🔍 Example Use Case
-Used in financial operations to reconcile trade flow, generate compliance reports, and automate manual checks.
+Used in financial operations to reconcile trade flow, generate compliance reports and automate manual checks.
 
 ## 📸 Preview
 *(Insert screenshot of Excel output or workflow diagram)*
