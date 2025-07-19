@@ -23,4 +23,9 @@ A practical finance/operations project using Python, SQL, and Excel to reconcile
 Used in financial operations to reconcile trade flow, generate compliance reports and automate manual checks.
 
 ## 📸 Preview
-*(Insert screenshot of Excel output or workflow diagram)*
+*![img.png](img.png)*
+
+- TradeID 1003: Mismatch - Price differs between broker and internal records
+- TradeID 1005: Missing at Broker: Trade exists in the internal system but not on the brokers side
+- TradeID 1006: Quantity mismatch between internal records and broker
+- TradeID 1007: Trade not registered internally
