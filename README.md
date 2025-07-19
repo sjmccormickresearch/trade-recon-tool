@@ -22,6 +22,13 @@ A practical finance/operations project using Python, SQL, and Excel to reconcile
 ## 🔍 Example Use Case
 Used in financial operations to reconcile trade flow, generate compliance reports and automate manual checks.
 
+
+## How to use
+1. Drop `internal_trades.csv` and `broker_trades.csv` into the /data folder.
+2. Run `load_to_db.py` to load both files into a local SQLite database (`trades.db`).
+3. Run `trade-recon-tool.py` to compare trades and generate a color-coded Excel report.
+
+
 ## 📸 Preview
 *![img.png](img.png)*
 
